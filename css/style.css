@@ -56,24 +56,68 @@ body {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    color: #6b727c;
+    color: #acb0b6;
 }
 
 .contacts-link-type {
     font-size: 14px;
     line-height: 24px;
     font-weight: 700;
-    color: #ffffff;
+    color: #fff;
     margin-right: 10px;
 }
 
-.tech-scills-container {
+.profile-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.profile-title {
+    line-height: 24px;
+    font-weight: 700;
+    font-size: 22px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.name_surname-type {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.name_surname {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #acb0b6;
+}
+
+.date_of_birth-type {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.date_of_birth {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #acb0b6;
+}
+
+.tech-skills-container {
     margin-top: 55px;
     margin-left: 40px;
     margin-right: 40px;
 }
 
-.tech-scills-title {
+.tech-skills-title {
     line-height: 24px;
     font-weight: 700;
     font-size: 22px;
@@ -116,6 +160,32 @@ body {
 }
 
 .soft-skills-text {
+    color: #acb0b6;
+}
+
+.language-container {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.language-title {
+    line-height: 24px;
+    font-weight: 700;
+    font-size: 22px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.language-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #eb650c;
+}
+
+.language-text {
     color: #acb0b6;
 }
 
