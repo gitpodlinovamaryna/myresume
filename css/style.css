@@ -33,7 +33,7 @@ body {
 
 .about-me-container {
     padding-left: 90px;
-    padding-top: 110px;
+    padding-top: 80px;
     padding-bottom: 110px;
     padding-right: 90px;
 }
@@ -187,6 +187,17 @@ body {
 
 .language-text {
     color: #acb0b6;
+}
+
+.position-container {
+    margin-bottom: 55px;
+}
+
+.position-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
 }
 
 .profession {
